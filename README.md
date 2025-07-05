@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/devhub-devhub-cms-mcp-badge.png)](https://mseep.ai/app/devhub-devhub-cms-mcp)
+
 # DevHub CMS MCP
 
 [![smithery badge](https://smithery.ai/badge/@devhub/devhub-cms-mcp)](https://smithery.ai/server/@devhub/devhub-cms-mcp)
